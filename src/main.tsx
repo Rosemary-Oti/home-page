@@ -9,25 +9,3 @@ createRoot(document.getElementById('root')!).render(
   </StrictMode>,
 )
 
-
-      {/* first section */}
-      <div >
-        
-
-        {/* anchor and box div */}
-
-        <div>
-          
-
-        </div>
-
-        
-
-        
-      </div>
-
-      {/* second section */}
-      <div className=' px-20 '>
-        
-        
-      </div>

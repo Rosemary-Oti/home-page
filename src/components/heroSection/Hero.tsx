@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
       <div className='flex items-center justify-between w-full px-20 -mt-14'>
       <div >
           <a
-            href="https://resida-nine.vercel.app/"
+            href="https://google.com"
             className="text-sm font-bold py-2 mb-4 px-6 rounded-full bg-gray-700 hover:bg-gray-500 text-gray-200 mt-6 inline-block"
           >
             Discover
